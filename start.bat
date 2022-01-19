@@ -1,5 +1,5 @@
 echo off
-title Developed by Sahincan&Reawen
+title Sahincan Discord Log Bot
 cls
 :a
 node index.js
